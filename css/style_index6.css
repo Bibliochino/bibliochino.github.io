@@ -235,17 +235,17 @@ label{
     padding-top: 0.5em;
 }
 .head-bottom {
-    background: #d80b36;
+    background: #3f2e46;
 }
 /*--navigation--*/
 ul.nav.navbar-nav li.active a {
-    background: #a50a29 ! important;
+    background: #9b0a27 ! important;
     color: #fff ! important;
 	text-transform: uppercase ! important;
 	font-weight:700;
 }
 ul.nav.navbar-nav li a:hover{
-    background: #100f53 ! important;
+    background: #1d2731 ! important;
     color: #fff ! important;
 }
 ul.nav.navbar-nav li a {
@@ -370,7 +370,7 @@ i.glyphicon.glyphicon-comment {
 }
 .tc-ch h3 a {
     padding-left: 40px;
-    color: #100f53;
+    color: #062746;
     font-weight: 700;
     font-family: 'Vollkorn', serif;
 }
@@ -570,7 +570,7 @@ i.glyphicon.glyphicon-plus{
 }
 .footer h6 {
     font-size: 1.2em;
-    background: #100f53;
+    background: #0375b4;
     padding: 0.5em 1.2em;
     font-weight: 500;
     color: #fff;
