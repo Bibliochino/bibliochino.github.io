@@ -235,7 +235,7 @@ label{
     padding-top: 0.5em;
 }
 .head-bottom {
-    background: #372e46;
+    background: #3f2e46;
 }
 /*--navigation--*/
 ul.nav.navbar-nav li.active a {
@@ -270,15 +270,15 @@ ul.nav.navbar-nav li a {
 }
 /*--navigation--*/
 /*--banner--*/
-.banner{
-background: url(../images/banner.jpg) no-repeat 0px 0px;
-background-size:cover;
-class:center-block;
--webkit-background-size: cover;
--o-background-size: cover;
--ms-background-size: cover;
--moz-background-size: cover;
-min-height: 436px;
+.banner {
+    background: url(../images/banner0.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    class: center-block;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    -moz-background-size: cover;
+    min-height: 850px;
 }
 .banner a {
     font-size: 1em;
@@ -315,6 +315,14 @@ min-height: 436px;
     color: rgba(29, 18, 10, 0.9);
     font-weight: 400;
 }
+.banner p span{
+    color: rgba(255, 247, 192, 0.9);
+    font-weight: 400;
+}
+.banner p b{
+    color: rgba(244, 222, 203, 0.9);
+    font-weight: 400;
+}
 /*--banner--*/
 /*--technology-left--*/
 .blog-poast-info {
@@ -326,14 +334,12 @@ min-height: 436px;
 	display:inline-table;
 	margin-right: 1em;
 }
-
 .blog-poast-info ul li{
-    color: #005731;
+	color: #00643b;
     line-height: 1.5em;
-    font-size:1.15em;
-    vertical-align:middle;
+	font-size:1.15em;
+	vertical-align:middle;
 }
-
 .blog-poast-info li i {
     font-size:1.5em;
     color: #aeaeae;
@@ -368,20 +374,9 @@ i.glyphicon.glyphicon-comment {
     font-weight: 700;
     font-family: 'Vollkorn', serif;
 }
-.tc-ch h3 a span{
-    color: #062746;
-    font-weight: 700;
-    font-family: 'Vollkorn', serif;
-}
 
 .tc-ch h4 {
     padding-left: 100px;
-    color: #af0b2d;
-    font-weight: 700;
-    font-family: 'Vollkorn', serif;
-}
-
-.tc-ch h4 span{
     color: #af0b2d;
     font-weight: 700;
     font-family: 'Vollkorn', serif;
@@ -396,17 +391,6 @@ i.glyphicon.glyphicon-comment {
     line-height: 1.3em;
     margin: 0.75em 0;
 }
-
-.tc-ch span p {
-    font-family: "Georgia", sans-serif;
-    color: #9b0a27;
-    font-size: 1.2em;
-    font-height:8px;
-    font-weight: 700;
-    line-height: 1.3em;
-    margin: 0.75em 0;
-}
-
 .tc-ch h3 {
     font-family: "Baskerville Old Face";
     margin: 0.5em 0 0;
@@ -426,7 +410,7 @@ a.blog{
     color: #fff;
 }
 a.blog.pink{
-    background: #cac817;
+    background: #cc9f00;
 }
 a.blog.gren{
     background: #42d948;
@@ -665,7 +649,7 @@ i.glyphicon.glyphicon-plus{
     text-align: center;
 }
 .banner1{
-background: url(../images/banner.jpg) no-repeat 0px 0px;
+background: url(../images/banner0.jpg) no-repeat 0px 0px;
 background-size:cover;
 -webkit-background-size: cover;
 -o-background-size: cover;
@@ -987,16 +971,8 @@ ul.nav.navbar-nav li a {
     font-size: 1em;
 }
 .banner {
-    min-height: 500px;
+    min-height: 550px;
 }
-    .banner p span{
-        color: rgba(255, 247, 192, 0.9);
-        font-weight: 400;
-    }
-    .banner p b{
-        color: rgba(244, 222, 203, 0.9);
-        font-weight: 400;
-    }
 .tech-btm h4 {
     font-size: 1.17em;
     margin-bottom: 0.5em;
