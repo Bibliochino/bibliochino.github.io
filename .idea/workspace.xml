@@ -26,18 +26,38 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-578">
+            <state relative-caret-position="2431">
               <caret line="143" column="77" selection-start-line="143" selection-start-column="77" selection-end-line="143" selection-end-column="77" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="a10.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="a10.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/a10.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
+            <state relative-caret-position="3315">
               <caret line="195" column="196" selection-start-line="195" selection-start-column="196" selection-end-line="195" selection-end-column="196" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="watchlist.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/watchlist.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1955">
+              <caret line="266" column="24" selection-start-line="266" selection-start-column="24" selection-end-line="266" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tbr2017.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tbr2017.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="134" column="47" selection-start-line="134" selection-start-column="47" selection-end-line="134" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -46,7 +66,7 @@
       <file leaf-file-name="a8.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/a8.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
+            <state relative-caret-position="2125">
               <caret line="125" column="142" selection-start-line="125" selection-start-column="20" selection-end-line="125" selection-end-column="142" />
               <folding />
             </state>
@@ -101,17 +121,17 @@
         <option value="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/a6.html" />
-        <option value="$PROJECT_DIR$/watchlist.html" />
         <option value="$PROJECT_DIR$/a5.html" />
         <option value="$PROJECT_DIR$/a7.html" />
         <option value="$PROJECT_DIR$/a8.html" />
-        <option value="$PROJECT_DIR$/tbr2017.html" />
         <option value="$PROJECT_DIR$/3.html" />
         <option value="$PROJECT_DIR$/a9.html" />
         <option value="$PROJECT_DIR$/favbooks.html" />
         <option value="$PROJECT_DIR$/favmovies.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/a10.html" />
+        <option value="$PROJECT_DIR$/tbr2017.html" />
+        <option value="$PROJECT_DIR$/watchlist.html" />
       </list>
     </option>
   </component>
@@ -193,16 +213,17 @@
       <workItem from="1489508801081" duration="11688000" />
       <workItem from="1489594112393" duration="1121000" />
       <workItem from="1489675582709" duration="4356000" />
-      <workItem from="1489860353784" duration="4440000" />
+      <workItem from="1489860353784" duration="5051000" />
+      <workItem from="1489908829799" duration="2520000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86979000" />
+    <option name="totallyTimeSpent" value="90110000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1375" height="735" extended-state="1" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25018397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -485,13 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/watchlist.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="385" column="45" selection-start-line="385" selection-start-column="45" selection-end-line="385" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/a6.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -524,7 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2125">
           <caret line="125" column="27" selection-start-line="125" selection-start-column="27" selection-end-line="125" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -532,15 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2567">
           <caret line="151" column="0" selection-start-line="133" selection-start-column="12" selection-end-line="151" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tbr2017.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2295">
-          <caret line="135" column="49" selection-start-line="135" selection-start-column="49" selection-end-line="135" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -548,7 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1989">
           <caret line="117" column="51" selection-start-line="117" selection-start-column="27" selection-end-line="117" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -556,7 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8874">
           <caret line="522" column="276" selection-start-line="522" selection-start-column="276" selection-end-line="522" selection-end-column="276" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -564,21 +566,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="679" column="276" selection-start-line="679" selection-start-column="276" selection-end-line="679" selection-end-column="276" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a8.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="125" column="142" selection-start-line="125" selection-start-column="20" selection-end-line="125" selection-end-column="142" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-578">
+        <state relative-caret-position="2431">
           <caret line="143" column="77" selection-start-line="143" selection-start-column="77" selection-end-line="143" selection-end-column="77" />
           <folding />
         </state>
@@ -586,8 +579,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/a10.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
+        <state relative-caret-position="3315">
           <caret line="195" column="196" selection-start-line="195" selection-start-column="196" selection-end-line="195" selection-end-column="196" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2125">
+          <caret line="125" column="142" selection-start-line="125" selection-start-column="20" selection-end-line="125" selection-end-column="142" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tbr2017.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="134" column="47" selection-start-line="134" selection-start-column="47" selection-end-line="134" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/watchlist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1955">
+          <caret line="266" column="24" selection-start-line="266" selection-start-column="24" selection-end-line="266" selection-end-column="24" />
           <folding />
         </state>
       </provider>
