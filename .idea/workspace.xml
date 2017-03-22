@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2431">
-              <caret line="143" column="77" selection-start-line="143" selection-start-column="77" selection-end-line="143" selection-end-column="77" />
+            <state relative-caret-position="153">
+              <caret line="526" column="1133" selection-start-line="526" selection-start-column="1133" selection-end-line="526" selection-end-column="1133" />
               <folding />
             </state>
           </provider>
@@ -43,10 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="watchlist.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="watchlist.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/watchlist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1955">
+            <state relative-caret-position="0">
               <caret line="266" column="24" selection-start-line="266" selection-start-column="24" selection-end-line="266" selection-end-column="24" />
               <folding />
             </state>
@@ -56,7 +56,7 @@
       <file leaf-file-name="tbr2017.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tbr2017.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="2278">
               <caret line="134" column="47" selection-start-line="134" selection-start-column="47" selection-end-line="134" selection-end-column="47" />
               <folding />
             </state>
@@ -128,10 +128,10 @@
         <option value="$PROJECT_DIR$/a9.html" />
         <option value="$PROJECT_DIR$/favbooks.html" />
         <option value="$PROJECT_DIR$/favmovies.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/a10.html" />
         <option value="$PROJECT_DIR$/tbr2017.html" />
         <option value="$PROJECT_DIR$/watchlist.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -215,15 +215,16 @@
       <workItem from="1489675582709" duration="4356000" />
       <workItem from="1489860353784" duration="5051000" />
       <workItem from="1489908829799" duration="2520000" />
+      <workItem from="1490202304861" duration="2055000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90110000" />
+    <option name="totallyTimeSpent" value="92165000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1375" height="735" extended-state="1" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25018397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -569,18 +570,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2431">
-          <caret line="143" column="77" selection-start-line="143" selection-start-column="77" selection-end-line="143" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/a10.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3315">
           <caret line="195" column="196" selection-start-line="195" selection-start-column="196" selection-end-line="195" selection-end-column="196" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/watchlist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="266" column="24" selection-start-line="266" selection-start-column="24" selection-end-line="266" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tbr2017.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2278">
+          <caret line="134" column="47" selection-start-line="134" selection-start-column="47" selection-end-line="134" selection-end-column="47" />
           <folding />
         </state>
       </provider>
@@ -593,18 +602,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tbr2017.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="134" column="47" selection-start-line="134" selection-start-column="47" selection-end-line="134" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/watchlist.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1955">
-          <caret line="266" column="24" selection-start-line="266" selection-start-column="24" selection-end-line="266" selection-end-column="24" />
+        <state relative-caret-position="153">
+          <caret line="526" column="1133" selection-start-line="526" selection-start-column="1133" selection-end-line="526" selection-end-column="1133" />
           <folding />
         </state>
       </provider>
