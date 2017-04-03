@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2397">
-              <caret line="141" column="80" selection-start-line="141" selection-start-column="80" selection-end-line="141" selection-end-column="80" />
+            <state relative-caret-position="221">
+              <caret line="411" column="252" selection-start-line="411" selection-start-column="252" selection-end-line="411" selection-end-column="252" />
               <folding>
                 <element signature="e#4658#4664#0" expanded="true" />
                 <element signature="e#4664#4670#0" expanded="true" />
@@ -57,10 +57,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tv1.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tv1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tv1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
+            <state relative-caret-position="175">
               <caret line="375" column="1324" selection-start-line="375" selection-start-column="1324" selection-end-line="375" selection-end-column="1324" />
               <folding />
             </state>
@@ -133,9 +133,9 @@
         <option value="$PROJECT_DIR$/tv1f.html" />
         <option value="$PROJECT_DIR$/tv1g.html" />
         <option value="$PROJECT_DIR$/tv1h.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/tv1e.html" />
         <option value="$PROJECT_DIR$/tv1.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -281,15 +281,15 @@
       <workItem from="1490434098154" duration="1368000" />
       <workItem from="1490889865336" duration="1148000" />
       <workItem from="1491108587336" duration="15416000" />
-      <workItem from="1491212022197" duration="345000" />
+      <workItem from="1491212022197" duration="510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114020000" />
+    <option name="totallyTimeSpent" value="114185000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25018397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -648,18 +648,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2397">
-          <caret line="141" column="80" selection-start-line="141" selection-start-column="80" selection-end-line="141" selection-end-column="80" />
-          <folding>
-            <element signature="e#4658#4664#0" expanded="true" />
-            <element signature="e#4664#4670#0" expanded="true" />
-            <element signature="e#4670#4676#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/a12.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2125">
@@ -686,9 +674,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tv1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
+        <state relative-caret-position="175">
           <caret line="375" column="1324" selection-start-line="375" selection-start-column="1324" selection-end-line="375" selection-end-column="1324" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="411" column="252" selection-start-line="411" selection-start-column="252" selection-end-line="411" selection-end-column="252" />
+          <folding>
+            <element signature="e#4658#4664#0" expanded="true" />
+            <element signature="e#4664#4670#0" expanded="true" />
+            <element signature="e#4670#4676#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
