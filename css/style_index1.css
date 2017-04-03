@@ -271,7 +271,7 @@ ul.nav.navbar-nav li a {
 /*--navigation--*/
 /*--banner--*/
 .banner {
-    background: url(../images/banner0.jpg) no-repeat 0px 0px;
+    background: url(../images/bannera1.jpg) no-repeat 0px 0px;
     background-size: cover;
     class: center-block;
     -webkit-background-size: cover;
@@ -413,13 +413,11 @@ a.blog.pink{
     background: #cc9f00;
 }
 a.blog.gren{
-    background: #381c00;
+    background: #42d948;
 }
 a.blog.orn{
     background: #d13900;
 }
-
-
 .tech-no {
     position: absolute;
     top: -33px;
