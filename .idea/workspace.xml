@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="434" column="296" selection-start-line="434" selection-start-column="296" selection-end-line="434" selection-end-column="296" />
               <folding>
                 <element signature="e#4658#4664#0" expanded="true" />
                 <element signature="e#4664#4670#0" expanded="true" />
@@ -37,20 +37,30 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="a11.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/a11.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1020">
+              <caret line="129" column="154" selection-start-line="129" selection-start-column="154" selection-end-line="129" selection-end-column="154" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="a10.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/a10.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
+            <state relative-caret-position="3315">
               <caret line="195" column="196" selection-start-line="195" selection-start-column="196" selection-end-line="195" selection-end-column="196" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="a14.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="a14.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/a14.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
+            <state relative-caret-position="0">
               <caret line="125" column="26" selection-start-line="125" selection-start-column="26" selection-end-line="125" selection-end-column="26" />
               <folding />
             </state>
@@ -60,7 +70,7 @@
       <file leaf-file-name="tv1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tv1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
+            <state relative-caret-position="1972">
               <caret line="116" column="4" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="4" />
               <folding />
             </state>
@@ -96,7 +106,6 @@
         <option value="$PROJECT_DIR$/css/style_index1.css" />
         <option value="$PROJECT_DIR$/a13.html" />
         <option value="$PROJECT_DIR$/a12.html" />
-        <option value="$PROJECT_DIR$/a11.html" />
         <option value="$PROJECT_DIR$/css/style_index0.css" />
         <option value="$PROJECT_DIR$/tv1a.html" />
         <option value="$PROJECT_DIR$/tv1b.html" />
@@ -124,8 +133,9 @@
         <option value="$PROJECT_DIR$/watchlist.html" />
         <option value="$PROJECT_DIR$/index0.html" />
         <option value="$PROJECT_DIR$/favmovies.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/a14.html" />
+        <option value="$PROJECT_DIR$/a11.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -136,9 +146,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="-7" />
     <option name="width" value="1377" />
-    <option name="height" value="744" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -274,15 +284,16 @@
       <workItem from="1491251134502" duration="639000" />
       <workItem from="1491905191706" duration="799000" />
       <workItem from="1492356582257" duration="1510000" />
-      <workItem from="1496152609574" duration="1493000" />
+      <workItem from="1496152609574" duration="1690000" />
+      <workItem from="1496645767283" duration="5239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120009000" />
+    <option name="totallyTimeSpent" value="125445000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1377" height="744" extended-state="1" />
+    <frame x="-7" y="0" width="1377" height="735" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25018397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -435,7 +446,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5049">
           <caret line="297" column="63" selection-start-line="297" selection-start-column="63" selection-end-line="297" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -558,13 +568,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/a11.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2023">
-          <caret line="119" column="107" selection-start-line="119" selection-start-column="107" selection-end-line="119" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tv1e.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -639,7 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8262">
           <caret line="486" column="768" selection-start-line="486" selection-start-column="768" selection-end-line="486" selection-end-column="768" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -647,43 +649,50 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11883">
           <caret line="699" column="200" selection-start-line="699" selection-start-column="200" selection-end-line="699" selection-end-column="200" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3315">
+          <caret line="195" column="196" selection-start-line="195" selection-start-column="196" selection-end-line="195" selection-end-column="196" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a14.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="125" column="26" selection-start-line="125" selection-start-column="26" selection-end-line="125" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tv1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
+        <state relative-caret-position="1972">
           <caret line="116" column="4" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/a10.html">
+    <entry file="file://$PROJECT_DIR$/a11.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="195" column="196" selection-start-line="195" selection-start-column="196" selection-end-line="195" selection-end-column="196" />
+        <state relative-caret-position="-1020">
+          <caret line="129" column="154" selection-start-line="129" selection-start-column="154" selection-end-line="129" selection-end-column="154" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+        <state relative-caret-position="289">
+          <caret line="434" column="296" selection-start-line="434" selection-start-column="296" selection-end-line="434" selection-end-column="296" />
           <folding>
             <element signature="e#4658#4664#0" expanded="true" />
             <element signature="e#4664#4670#0" expanded="true" />
             <element signature="e#4670#4676#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a14.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="125" column="26" selection-start-line="125" selection-start-column="26" selection-end-line="125" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
