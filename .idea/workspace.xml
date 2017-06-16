@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="434" column="296" selection-start-line="434" selection-start-column="296" selection-end-line="434" selection-end-column="296" />
+            <state relative-caret-position="-102">
+              <caret line="139" column="32" selection-start-line="139" selection-start-column="32" selection-end-line="139" selection-end-column="32" />
               <folding>
                 <element signature="e#4658#4664#0" expanded="true" />
                 <element signature="e#4664#4670#0" expanded="true" />
@@ -37,41 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="a11.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a11.html">
+      <file leaf-file-name="a15.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/a15.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1020">
-              <caret line="129" column="154" selection-start-line="129" selection-start-column="154" selection-end-line="129" selection-end-column="154" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a10.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a10.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3315">
-              <caret line="195" column="196" selection-start-line="195" selection-start-column="196" selection-end-line="195" selection-end-column="196" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a14.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a14.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="125" column="26" selection-start-line="125" selection-start-column="26" selection-end-line="125" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tv1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tv1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1972">
-              <caret line="116" column="4" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="4" />
+            <state relative-caret-position="306">
+              <caret line="123" column="817" selection-start-line="123" selection-start-column="817" selection-end-line="123" selection-end-column="817" />
               <folding />
             </state>
           </provider>
@@ -85,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/a3.html" />
         <option value="$PROJECT_DIR$/resume.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/../New folder/videos.html" />
@@ -136,6 +105,7 @@
         <option value="$PROJECT_DIR$/a14.html" />
         <option value="$PROJECT_DIR$/a11.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/a15.html" />
       </list>
     </option>
   </component>
@@ -177,7 +147,7 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.html" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
@@ -285,12 +255,13 @@
       <workItem from="1491905191706" duration="799000" />
       <workItem from="1492356582257" duration="1510000" />
       <workItem from="1496152609574" duration="1690000" />
-      <workItem from="1496645767283" duration="5239000" />
+      <workItem from="1496645767283" duration="5460000" />
+      <workItem from="1497602529869" duration="3028000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125445000" />
+    <option name="totallyTimeSpent" value="128694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1377" height="735" extended-state="1" />
@@ -330,13 +301,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/a3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="121" column="23" selection-start-line="121" selection-start-column="23" selection-end-line="121" selection-end-column="410" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/a1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -660,14 +624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/a14.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="125" column="26" selection-start-line="125" selection-start-column="26" selection-end-line="125" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tv1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1972">
@@ -678,21 +634,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/a11.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1020">
+        <state relative-caret-position="2193">
           <caret line="129" column="154" selection-start-line="129" selection-start-column="154" selection-end-line="129" selection-end-column="154" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a14.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="125" column="26" selection-start-line="125" selection-start-column="26" selection-end-line="125" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="434" column="296" selection-start-line="434" selection-start-column="296" selection-end-line="434" selection-end-column="296" />
+        <state relative-caret-position="-102">
+          <caret line="139" column="32" selection-start-line="139" selection-start-column="32" selection-end-line="139" selection-end-column="32" />
           <folding>
             <element signature="e#4658#4664#0" expanded="true" />
             <element signature="e#4664#4670#0" expanded="true" />
             <element signature="e#4670#4676#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a15.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="123" column="817" selection-start-line="123" selection-start-column="817" selection-end-line="123" selection-end-column="817" />
+          <folding />
         </state>
       </provider>
     </entry>
