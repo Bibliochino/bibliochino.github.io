@@ -53,7 +53,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="x9.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="x9.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/x9.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="104">
@@ -63,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="143" column="407" selection-start-line="143" selection-start-column="407" selection-end-line="143" selection-end-column="407" />
+            <state relative-caret-position="321">
+              <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -130,8 +130,8 @@
         <option value="$PROJECT_DIR$/index-1.html" />
         <option value="$PROJECT_DIR$/tbr2017.html" />
         <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/x9.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -290,12 +290,12 @@
       <workItem from="1500480277878" duration="1332000" />
       <workItem from="1502813077123" duration="20995000" />
       <workItem from="1502980727455" duration="1375000" />
-      <workItem from="1503933481986" duration="923000" />
+      <workItem from="1503933481986" duration="1479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171374000" />
+    <option name="totallyTimeSpent" value="171930000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1373" height="735" extended-state="1" />
@@ -675,18 +675,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="143" column="407" selection-start-line="143" selection-start-column="407" selection-end-line="143" selection-end-column="407" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/x9.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="187" column="0" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
           <folding />
         </state>
       </provider>
