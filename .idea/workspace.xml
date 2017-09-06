@@ -46,7 +46,7 @@
       <file leaf-file-name="x8.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/x8.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
+            <state relative-caret-position="2261">
               <caret line="133" column="49" selection-start-line="133" selection-start-column="49" selection-end-line="133" selection-end-column="49" />
               <folding />
             </state>
@@ -56,7 +56,7 @@
       <file leaf-file-name="x7.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/x7.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="2363">
               <caret line="139" column="107" selection-start-line="138" selection-start-column="28" selection-end-line="139" selection-end-column="107" />
               <folding />
             </state>
@@ -76,7 +76,7 @@
       <file leaf-file-name="x11.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/x11.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="1972">
               <caret line="116" column="44" selection-start-line="116" selection-start-column="44" selection-end-line="116" selection-end-column="44" />
               <folding />
             </state>
@@ -86,8 +86,8 @@
       <file leaf-file-name="x12.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/x12.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="129" column="24" selection-start-line="129" selection-start-column="24" selection-end-line="129" selection-end-column="24" />
+            <state relative-caret-position="238">
+              <caret line="117" column="36" selection-start-line="117" selection-start-column="36" selection-end-line="117" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -96,7 +96,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="8245">
               <caret line="485" column="928" selection-start-line="485" selection-start-column="928" selection-end-line="485" selection-end-column="928" />
               <folding />
             </state>
@@ -332,12 +332,13 @@
       <workItem from="1502980727455" duration="1375000" />
       <workItem from="1503933481986" duration="1967000" />
       <workItem from="1504299202076" duration="3631000" />
-      <workItem from="1504696129379" duration="2604000" />
+      <workItem from="1504696129379" duration="2952000" />
+      <workItem from="1504702676189" duration="285000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="178653000" />
+    <option name="totallyTimeSpent" value="179286000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1373" height="735" extended-state="1" />
@@ -699,7 +700,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/x7.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="2363">
           <caret line="139" column="107" selection-start-line="138" selection-start-column="28" selection-end-line="139" selection-end-column="107" />
           <folding />
         </state>
@@ -707,7 +708,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/x8.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
+        <state relative-caret-position="2261">
           <caret line="133" column="49" selection-start-line="133" selection-start-column="49" selection-end-line="133" selection-end-column="49" />
           <folding />
         </state>
@@ -715,7 +716,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/x11.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="1972">
           <caret line="116" column="44" selection-start-line="116" selection-start-column="44" selection-end-line="116" selection-end-column="44" />
           <folding />
         </state>
@@ -723,7 +724,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="8245">
           <caret line="485" column="928" selection-start-line="485" selection-start-column="928" selection-end-line="485" selection-end-column="928" />
           <folding />
         </state>
@@ -731,8 +732,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/x12.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="129" column="24" selection-start-line="129" selection-start-column="24" selection-end-line="129" selection-end-column="24" />
+        <state relative-caret-position="238">
+          <caret line="117" column="36" selection-start-line="117" selection-start-column="36" selection-end-line="117" selection-end-column="36" />
           <folding />
         </state>
       </provider>
