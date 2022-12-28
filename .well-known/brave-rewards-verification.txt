@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bibliochino.github.io
+Token: 5e2ee89e811801e8cb485f3a2831799e8d38dfed2913b640912dcd5473cd4f65
